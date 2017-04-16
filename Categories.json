@@ -1,0 +1,57 @@
+{
+	"Categories":
+	[
+
+          {
+             "category_name": "All",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/All.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Cities",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Cities.jpg",
+             "premium": "true"
+          },
+          {
+             "category_name": "Holiday",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Holiday.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Landscape",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Landscape.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Material",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Material.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Minimalist",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Minimalist.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Misc",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Misc.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Polygon Animals",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Polygon Animals.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Seascape",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Seascape.jpg",
+             "premium": "false"
+           },
+          {
+             "category_name": "Space",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Space.jpg",
+             "premium": "false"
+             
+          }
+	]
+}
