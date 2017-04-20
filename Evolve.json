@@ -902,7 +902,7 @@
                         "name": "PoligonAnymals13"
                },
                {	
-                       "author": "David",
+                        "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Seascape/Seascape1.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Seascape1.jpg",
                         "name": "Seascape1"
@@ -2036,6 +2036,12 @@
     	       {
                         "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Seascape/Seascape1.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Seascape1.jpg",
+                        "name": "Seascape1"
+               },
+               {	  
+		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Seascape/Seascape2.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Evolve-Wallpapers/master/Thumbnails/Seascape2.jpg",
                         "name": "Seascape2"
                },
